@@ -1,0 +1,16 @@
+export const AppConfig = {
+  // appUrl: 'https://example.form.io',
+  //apiUrl: "https://api.form.io"
+  apiUrl: `[ 
+    {
+    "_id": "553db92f72f702e714dd9778",
+    "name": "formio",
+    "title": "Form.IO",
+    "description": "The Form.IO Application",
+    "url": "https://api.form.io/project/553db92f72f702e714dd9778",
+    "form": "https://api.form.io/project/553db92f72f702e714dd9778/form",
+    "alias": "https://formio.api.form.io"
+}]`
+
+}
+
